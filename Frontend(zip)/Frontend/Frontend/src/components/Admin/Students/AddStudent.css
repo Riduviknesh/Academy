@@ -1,0 +1,58 @@
+.addstudentform {
+    background-color: rgb(163, 159, 163);
+    height: 1000px;
+    width: auto;
+    margin: 2px 0px 0px 0px;
+    padding: 35px;
+}
+
+.container-fluid {
+    background-color: rgb(36, 114, 12);
+    padding: 14px;
+}
+
+
+.form-select {
+    margin: 25px 2px;
+}
+
+.row {
+    margin: 25px 50px;
+}
+
+.new {
+    margin: 50px 0px 0px 50px;
+}
+
+.newa {
+    margin: 40px 50px 0px 50px;
+}
+
+.sideform {
+    width: 500px;
+    float: left;
+}
+
+
+.address {
+    background-color: rgb(192, 192, 196);
+    margin: 50px 0px 0px 50px;
+    width: 850px;
+    height: 490px;
+    float: left;
+}
+
+.btn1 {
+    padding: 15px;
+    margin: 50px 0px 0px 200px;
+    background-color: rgb(36, 114, 12);
+    border-radius: 20px;
+}
+
+#add {
+    margin: 20px 0px 0px 50px;
+}
+
+#navitem {
+    color: rgba(240, 255, 255, 0.973);
+}
